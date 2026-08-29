@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Paul%20Daniel%20Tharun%20J&fontSize=45&fontColor=FFFFFF&font=Georgia&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=58&descSize=18&descFont=Georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:0E7490&height=240&section=header&text=Paul%20Daniel%20Tharun%20J&fontSize=45&fontColor=FFFFFF&fontFamily=Georgia&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=60&descSize=17&descFontFamily=Georgia&animation=fadeIn" width="100%"/>
 
 </div>
 <br/>
@@ -191,8 +191,6 @@ Continuously building and experimenting with machine learning and data-driven pr
 ---
 
 GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pauldanieltharun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldanieltharun&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauldanieltharun&theme=tokyonight&hide_border=true" /> </p>
 
