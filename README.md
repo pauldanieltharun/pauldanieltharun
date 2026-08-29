@@ -1,236 +1,232 @@
-<h1 align="center">Hi, I'm Paul Daniel Tharun 👋</h1>
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
 
-<h3 align="center">🤖 AI & Machine Learning Enthusiast | 📊 Data Analyst | 🐍 Python Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2E97F7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%26+Visualization;Python+%7C+Java+%7C+MongoDB;Building+Real-World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Paul%20Daniel%20Tharun%20J&fontSize=45&fontColor=FFFFFF&font=Georgia&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=58&descSize=18&descFont=Georgia" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pauldanieltharun&label=Profile%20Views&color=2E97F7&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Student;Python+%7C+Data+Analytics+%7C+Machine+Learning;Building+Data-Driven+Solutions;Exploring+Artificial+Intelligence;Learn.+Build.+Analyze.+Improve." />
 
-## 👨‍💻 About Me
+<br/><br/>
 
-🎓 **B.Sc. Artificial Intelligence & Machine Learning** student passionate about using data, machine learning and technology to solve real-world problems.
+<a href="https://github.com/pauldanieltharun">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 📊 Exploring **Data Analytics & Business Intelligence**
-* 🐍 Building projects with **Python**
-* ☕ Working with **Java & Object-Oriented Programming**
-* 🗄️ Working with **MongoDB & Database Systems**
-* 📈 Creating dashboards and insights using **Power BI**
-* 🧹 Interested in **Data Cleaning, EDA & Data Visualization**
-* 🚀 Building practical projects to strengthen my technical skills
-* 🌱 Continuously learning and improving
-* 🤝 Open to **collaboration, internships & open-source projects**
+<a href="https://www.linkedin.com/in/pauldanieltharun-j-86a389359/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:pauldanieltharun01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🧠 Technical Skills
+<br/><br/>
 
-### 🤖 Artificial Intelligence & Machine Learning
+<img src="https://komarev.com/ghpvc/?username=pauldanieltharun&style=flat-square&color=06B6D4&label=PROFILE+VIEWS"/>
 
-`Supervised Learning` · `Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `Decision Trees` · `Random Forest` · `KNN` · `SVM` · `Naive Bayes` · `PCA` · `Ensemble Learning`
-
-### 🧠 Deep Learning
-
-`Artificial Neural Networks` · `MLP` · `Backpropagation` · `XOR Problem`
+</div>
 
 ---
 
-## 📊 Data Analytics
+# Introducing myself
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+I'm **Paul Daniel Tharun**, an **Artificial Intelligence & Machine Learning student** focused on developing practical skills in **Python, Data Analytics, Machine Learning, Databases, and Business Intelligence**.
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Data Cleaning` · `Exploratory Data Analysis` · `Data Visualization` · `Statistical Analysis`
+I enjoy working with data, finding patterns, building analytical solutions, and turning ideas into practical projects.
 
----
+### What I Bring
 
-## 💻 Programming
+- 🤖 A genuine pull toward AI & Machine Learning — not just coursework, curiosity
+- Python as my daily tool for turning data into decisions
+- 🧹 A knack for cleaning messy data and finding the story inside it
+- Comfortable across SQL and NoSQL — structured or not, I can work with it
+- 📊 Business Intelligence chops, powered by Power BI
+- A build-first mindset — I learn by shipping, not just studying
+- 🔬 Constant experimentation with ML models, just to see what they can do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
-</p>
-
-* **Python** — Data Analytics, Automation & Machine Learning
-* **Java** — OOP, DSA & Application Development
-* **HTML / CSS** — Web Development Fundamentals
-* **DSA** — Arrays, Linked Lists, Stacks, Queues, Trees, Graphs & Sorting
+> **I don't believe in learning technology from the sidelines — I learn it by building with it.**
 
 ---
 
-## 🗄️ Databases
+# ⚡ Technical Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<div align="center">
 
-`MongoDB Atlas` · `MongoDB Compass` · `CRUD Operations` · `Aggregation` · `Indexing` · `Database Design` · `DBMS`
+### Programming
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
 
-## 📈 Business Intelligence
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+### Data & Machine Learning
 
-`Interactive Dashboards` · `Data Visualization` · `Business Insights` · `Data Analysis`
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
----
+<br/><br/>
 
-## 🛠️ Tools & Technologies
+### Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+<br/><br/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+</div>
+
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, Java, C, HTML, CSS |
+| **Data Analysis** | Pandas, NumPy, Matplotlib |
+| **Machine Learning** | Scikit-learn, Regression, Classification, Clustering, PCA |
+| **ML Algorithms** | KNN, SVM, Decision Trees, Random Forest, Naive Bayes |
+| **Databases** | MySQL, MongoDB, MongoDB Atlas |
+| **Business Intelligence** | Power BI |
+| **Development** | VS Code, Jupyter Notebook, Google Colab |
+| **Version Control** | Git, GitHub |
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 1. Data Cleaning & Reporting Automation
+<div align="center">
 
-🔗 **Repository:**
-https://github.com/pauldanieltharun/data-cleaning-reporting-automation
+<table>
+<tr>
 
-> An end-to-end data analytics project focused on cleaning raw datasets, performing exploratory analysis, generating insights and automating reporting workflows.
+<td width="50%" valign="top">
 
-**Tech:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Data Cleaning` · `Data Visualization`
+<h3 align="center">📊 Data Cleaning & Reporting Automation</h3>
+
+<p align="center">
+A data analytics project focused on transforming raw sales data into a clean, structured dataset and generating meaningful insights for reporting.
+</p>
+
+<p align="center">
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</p>
+
+<p align="center">
+<a href="https://github.com/pauldanieltharun/data-cleaning-reporting-automation">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">👥 Customer Segmentation</h3>
+
+<p align="center">
+A data-driven project focused on understanding customer behavior and identifying meaningful customer segments using analytical and machine learning techniques.
+</p>
+
+<p align="center">
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+</p>
+
+<p align="center">
+<a href="https://github.com/pauldanieltharun/Customer_Segmentation_Project">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🅿️ Parking Management System</h3>
+
+<p align="center">
+A Python console application for managing vehicle parking, parking slots, vehicle entry and exit, and automated billing.
+</p>
+
+<p align="center">
+
+`Python` `Functions` `Lists` `Conditional Logic`
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔬 AI & ML Projects</h3>
+
+<p align="center">
+Continuously building and experimenting with machine learning and data-driven projects to strengthen practical AI skills.
+</p>
+
+<p align="center">
+
+`Machine Learning` `Python` `Data Science`
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 👥 2. Customer Segmentation
+GitHub Analytics
 
-🔗 **Repository:**
-https://github.com/pauldanieltharun/Customer_Segmentation_Project
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pauldanieltharun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldanieltharun&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 
-> A machine learning project that analyzes customer behavior and segments customers into meaningful groups to support data-driven business decisions.
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauldanieltharun&theme=tokyonight&hide_border=true" /> </p>
 
-**Tech:** `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Clustering` · `Data Visualization`
+# 🧩 Data & AI Workflow
 
----
-
-### 📈 3. Predictive Analytics & Sales Forecasting
-
-🔗 **Repository:**
-https://github.com/pauldanieltharun/predictive-analytics-sales-forecasting
-
-> A predictive analytics project focused on analyzing historical sales patterns and forecasting future sales using machine learning and data analysis techniques.
-
-**Tech:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Machine Learning` · `Forecasting`
-
----
-
-### 💰 4. Sales & Revenue Analysis
-
-🔗 **Repository:**
-https://github.com/pauldanieltharun/Sales-and-Revenue
-
-> A data analytics project designed to analyze sales performance, revenue trends and business insights through data visualization.
-
-**Tech:** `Python` · `Pandas` · `Data Analysis` · `Visualization` · `Business Intelligence`
-
----
-
-## 📚 Currently Learning
+<div align="center">
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Data Analytics
-        ↓
-Deep Learning
-        ↓
-Real-World AI Applications
+        RAW DATA
+            │
+            ▼
+   ┌─────────────────┐
+   │ Data Collection │
+   └────────┬────────┘
+            ▼
+   ┌─────────────────┐
+   │ Data Cleaning   │
+   └────────┬────────┘
+            ▼
+   ┌─────────────────┐
+   │ Exploratory     │
+   │ Data Analysis   │
+   └────────┬────────┘
+            ▼
+   ┌─────────────────┐
+   │ Visualization   │
+   └────────┬────────┘
+            ▼
+   ┌─────────────────┐
+   │ ML / Analytics  │
+   └────────┬────────┘
+            ▼
+   ┌─────────────────┐
+   │ Insights &      │
+   │ Decisions       │
+   └─────────────────┘
 ```
-
-🔹 Advanced Machine Learning
-🔹 Data Analytics & Visualization
-🔹 Deep Learning
-🔹 Python Development
-🔹 Database Management
-🔹 Git & GitHub
-🔹 AI-powered Applications
-
----
-
-## 🎯 Career Goals
-
-> **Learn → Build → Improve → Share**
-
-I'm working towards becoming a strong **AI/ML and Data professional** by continuously building projects, improving my technical skills and applying technology to real-world problems.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/pauldanieltharun-j-86a389359/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pauldanieltharun01@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/pauldanieltharun">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauldanieltharun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldanieltharun&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauldanieltharun&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pauldanieltharun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauldanieltharun&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b>💡 Turning data into insights and ideas into intelligent solutions.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
